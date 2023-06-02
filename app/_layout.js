@@ -4,7 +4,7 @@ import * as SplashScreen from 'expo-splash-screen';
 SplashScreen.preventAutoHideAsync();
 const Layout = () => {
 
-    return <Stack onLayout={onLayoutRootView()} />
+    return <Stack />
 }
 
 export default Layout;

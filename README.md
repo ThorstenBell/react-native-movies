@@ -8,6 +8,9 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 ```sh
 npm start
 ```
+```sh
+npx expo start --tunnel
+```
 
 ## API
 
